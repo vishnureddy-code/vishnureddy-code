@@ -116,12 +116,13 @@ Responsive web platform built using modern technologies.
 
 <div align="center">
 
-<a href="https://github.com/vishnureddy-code"> <img src="https://skillicons.dev/icons?i=github" /> </a>
+<a href="mailto:pusapativishnuvardhanreddy@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
-<a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-731bb1341/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+<a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-731bb1341/"> <img src="https://img.shields.io/badge/LinkedIn-Vishnu%20Vardhan%20Reddy-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<a href="https://github.com/vishnureddy-code"> <img src="https://img.shields.io/badge/GitHub-vishnureddy--code-black?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 </div>
-
 ---
 
 <div align="center">
