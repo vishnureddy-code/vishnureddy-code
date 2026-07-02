@@ -34,23 +34,21 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
-### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
@@ -69,15 +67,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnureddy-code&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnureddy-code&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
@@ -89,15 +79,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishnureddy-code&theme=tokyonight&row=1&column=6"/>
-
-</div>
 
 ---
 
@@ -135,13 +116,9 @@ Responsive web platform built using modern technologies.
 
 <div align="center">
 
-<a href="https://github.com/vishnureddy-code">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<a href="https://github.com/vishnureddy-code"> <img src="https://skillicons.dev/icons?i=github" /> </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-731bb1341/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 
 </div>
 
