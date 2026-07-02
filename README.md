@@ -31,7 +31,7 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
+`
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python" />
@@ -163,11 +163,27 @@ My goal is to become a highly skilled Software Engineer capable of designing sca
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
+`
+### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+
+
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
