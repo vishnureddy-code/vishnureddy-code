@@ -166,7 +166,7 @@ My goal is to become a highly skilled Software Engineer capable of designing sca
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-`
+
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python" />
@@ -199,17 +199,6 @@ My goal is to become a highly skilled Software Engineer capable of designing sca
 * Cloud Computing
 * Open Source Contributions
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnureddy-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnureddy-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -221,15 +210,6 @@ My goal is to become a highly skilled Software Engineer capable of designing sca
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishnureddy-code&theme=tokyonight&row=1&column=7&no-frame=true" />
-
-</div>
 
 ---
 
@@ -314,7 +294,6 @@ Software Development Internships • Full Stack Roles • Open Source Collaborat
 
 <br>
 
-### ⭐ "Code. Learn. Build. Repeat."
 
 </div>
 
