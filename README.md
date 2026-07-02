@@ -88,37 +88,85 @@ My goal is to become a highly skilled Software Engineer capable of designing sca
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🌐 Full Stack Project
+### 🌐 DevCircle Landing Page
 
-Modern responsive web application with authentication, database integration, and REST APIs.
+*A modern and responsive Tech Club Landing Page built using HTML and Tailwind CSS.*
 
-</td>
+</div>
 
-<td width="50%">
+### 📋 Project Overview
 
-### 💻 Software Project
+DevCircle Landing Page is a fully responsive website designed for a technology community or student club. The project focuses on clean UI design, mobile responsiveness, and modern web development practices.
 
-Problem-solving application built using efficient algorithms and clean architecture.
+### ✨ Features
 
-</td>
-</tr>
+* 📱 Fully Responsive Design (Mobile + Desktop)
+* 🌙 Modern Dark Theme
+* 🚀 Hero Section with Call-to-Action
+* 📅 Events Showcase Section
+* 👥 Team Members Section
+* 📝 Contact & Join Form
+* 🎨 Smooth Hover Animations
+* ⚡ Fast and Lightweight Interface
 
-<tr>
-<td width="50%">
+### 🛠️ Tech Stack
 
-### 📊 Data Driven Project
+<p align="center">
 
-Application focused on managing and visualizing data effectively.
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vscode,github" />
 
-</td>
+</p>
 
-<td width="50%">
+### 📂 Project Structure
+
+```text
+devcircle-landing/
+├── index.html
+├── style.css
+├── output.css
+├── tailwind.config.js
+└── package.json
+```
+
+### 🚀 Quick Start
+
+```bash
+npm install
+npm run build
+```
+
+Open `index.html` using Live Server.
+
+### 🎨 Customization
+
+* Modify colors using Tailwind utility classes
+* Update content directly in `index.html`
+* Easily extend sections and components
+
+### 💡 What I Learned
+
+* Responsive Web Design
+* Tailwind CSS Utility Framework
+* Component-Based UI Development
+* Git & GitHub Workflow
+* Frontend Project Structuring
+
+---
+
+<div align="center">
+
+### 👨‍💻 Developed By
+
+**P. Vishnu Vardhan Reddy**
+
+B.Tech CSE (2nd Year) • SRM Institute of Science and Technology, Kattankulathur
+
+</div>
+
 
 ### 🤝 Open Source Contributions
 
