@@ -90,115 +90,21 @@ My goal is to become a highly skilled Software Engineer capable of designing sca
 
 ## 🚀 Featured Project
 
-<div align="center">
-
 ### 🌐 DevCircle Landing Page
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Frontend-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Built%20With-Tailwind%20CSS-38BDF8?style=for-the-badge" />
-
-</div>
-
-> Responsive Tech Club Landing Page built with modern web technologies.
-
-### ✨ Key Highlights
-
-* 📱 Fully Responsive (Mobile + Desktop)
-* 🌙 Modern Dark Theme UI
-* 🚀 Hero Section with CTA
-* 📅 Events Showcase Grid
-* 👥 Team Member Section
-* 📝 Join / Contact Form
-* 🎨 Smooth Hover Animations
-* ⚡ Fast & Lightweight Design
-
-### 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,tailwind,github,vscode" />
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Responsive-✓-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Dark%20Theme-✓-blueviolet?style=flat-square">
 </p>
 
-### 🔗 Links
+> Responsive tech club landing page featuring a modern dark UI, events showcase, team section, and join form.
 
-* 🌍 **Live Demo:** `Add Your GitHub Pages Link`
-* 📂 **Repository:** `https://github.com/vishnureddy-code/devcircle-landing`
+🔗 **Live Demo:** Your Live Link
+📂 **Repository:** `devcircle-landing`
 
-### 💡 Learning Outcomes
-
-`Responsive Design` • `Tailwind CSS` • `UI Development` • `Git & GitHub` • `Frontend Best Practices`
-
-</div>
-
-
-### 📋 Project Overview
-
-DevCircle Landing Page is a fully responsive website designed for a technology community or student club. The project focuses on clean UI design, mobile responsiveness, and modern web development practices.
-
-### ✨ Features
-
-* 📱 Fully Responsive Design (Mobile + Desktop)
-* 🌙 Modern Dark Theme
-* 🚀 Hero Section with Call-to-Action
-* 📅 Events Showcase Section
-* 👥 Team Members Section
-* 📝 Contact & Join Form
-* 🎨 Smooth Hover Animations
-* ⚡ Fast and Lightweight Interface
-
-### 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,vscode,github" />
-
-</p>
-
-### 📂 Project Structure
-
-```text
-devcircle-landing/
-├── index.html
-├── style.css
-├── output.css
-├── tailwind.config.js
-└── package.json
-```
-
-### 🚀 Quick Start
-
-```bash
-npm install
-npm run build
-```
-
-Open `index.html` using Live Server.
-
-### 🎨 Customization
-
-* Modify colors using Tailwind utility classes
-* Update content directly in `index.html`
-* Easily extend sections and components
-
-### 💡 What I Learned
-
-* Responsive Web Design
-* Tailwind CSS Utility Framework
-* Component-Based UI Development
-* Git & GitHub Workflow
-* Frontend Project Structuring
-
----
-
-<div align="center">
-
-### 👨‍💻 Developed By
-
-**P. Vishnu Vardhan Reddy**
-
-B.Tech CSE (2nd Year) • SRM Institute of Science and Technology, Kattankulathur
-
-</div>
+⭐ **Highlights:** Responsive • Modern UI • Tailwind CSS • GitHub Pages
 
 
 ### 🤝 Open Source Contributions
