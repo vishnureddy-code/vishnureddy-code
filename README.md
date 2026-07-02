@@ -94,9 +94,42 @@ My goal is to become a highly skilled Software Engineer capable of designing sca
 
 ### 🌐 DevCircle Landing Page
 
-*A modern and responsive Tech Club Landing Page built using HTML and Tailwind CSS.*
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Frontend-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Built%20With-Tailwind%20CSS-38BDF8?style=for-the-badge" />
 
 </div>
+
+> Responsive Tech Club Landing Page built with modern web technologies.
+
+### ✨ Key Highlights
+
+* 📱 Fully Responsive (Mobile + Desktop)
+* 🌙 Modern Dark Theme UI
+* 🚀 Hero Section with CTA
+* 📅 Events Showcase Grid
+* 👥 Team Member Section
+* 📝 Join / Contact Form
+* 🎨 Smooth Hover Animations
+* ⚡ Fast & Lightweight Design
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,tailwind,github,vscode" />
+</p>
+
+### 🔗 Links
+
+* 🌍 **Live Demo:** `Add Your GitHub Pages Link`
+* 📂 **Repository:** `https://github.com/vishnureddy-code/devcircle-landing`
+
+### 💡 Learning Outcomes
+
+`Responsive Design` • `Tailwind CSS` • `UI Development` • `Git & GitHub` • `Frontend Best Practices`
+
+</div>
+
 
 ### 📋 Project Overview
 
